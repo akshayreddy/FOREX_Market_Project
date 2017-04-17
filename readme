@@ -1,0 +1,17 @@
+
+
+> Connection to the TWS:
+
+  port = 7497
+  clientId = 999
+
+  Enabeling ActiveX and Socket Clients
+  Bypass oreder precaution for API orders
+
+> Packages used:
+
+  pandas
+  matplotlib
+  IBpy (https://github.com/blampe/IbPy.git)
+  numpy
+  python-tk

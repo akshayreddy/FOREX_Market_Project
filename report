@@ -1,0 +1,14 @@
+
+Report:
+
+
+> Using pandas dataframe to store the streaming data.
+> The data is stored in streamed_data.csv and displayed using streamed_data.html in a table view.
+> The maked data for the specified fields streams for a time window of 60 seconds.
+> Fields close_price, high_price, last_price, low_price do not tend to flacuate.
+> Plot 1 indicates increses in the bid_size and ask_size in the range of 1000000 to 5000000.
+  The plot also incidcate high correlation between both the fields.
+  They Rarely merge.
+> Plot 2 indiacted smoother increase in the bid_price when compared to the ask_price.
+  They merger more often.
+> Unable to fetch the volume_size.
